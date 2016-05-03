@@ -82,7 +82,7 @@
 			</exclusions>
 			<scope>runtime</scope>
 		</dependency>
-
+                <!-- Sample Comment -->
 		<!-- @Inject -->
 		<dependency>
 			<groupId>javax.inject</groupId>
